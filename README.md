@@ -13,3 +13,4 @@ The objective of this project is to:
 - Demonstrate how such an analysis works without GIS-specific libraries such as GDAL and rasterio.
 
 <img width="547" height="443" alt="Screenshot 2026-03-12 194746" src="https://github.com/user-attachments/assets/aa0e296f-fd5a-4b5b-89f2-f17da66d7912" />
+<img width="2373" height="1066" alt="sichtbarkeitsanalyse_result_3" src="https://github.com/user-attachments/assets/d3176573-531c-4177-af7d-ae2aabe65407" />
